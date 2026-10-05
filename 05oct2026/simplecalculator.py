@@ -1,6 +1,6 @@
 num1 = 10
 num2 = 5
-operator = '+'
+operator = ("+,-,*,/")
 
 if operator =='+':
     result = num1 + num2
